@@ -1,2 +1,2 @@
-eureka
+eureka:
   path: http://localhost:8761/eureka
